@@ -1,2 +1,2 @@
-# Bichotas
-perrear tan puerco que hasta huela a carnitas
+# BootCamp_Equipo1
+ser dioses en git
