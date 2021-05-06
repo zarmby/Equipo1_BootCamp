@@ -1,0 +1,11 @@
+.categorias{
+    display: flex;
+}
+
+.h3{
+    color: black;
+}
+
+.container h1{
+    font-family: 'Open Sans', sans-serif;
+}
