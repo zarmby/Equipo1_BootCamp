@@ -1,0 +1,51 @@
+:root{
+ --color-ligth: #ffffff;   
+--color-dark: #1b1b1b;
+--color-gold: #c7b8a5;
+}
+
+body{
+
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    background-color: var(--color-dark);
+    color: var(--color-ligth);
+    letter-spacing: .05rem;
+}
+img{
+    display: block;
+   margin: auto ; 
+
+}
+
+h4{
+    color: white;
+    font-size: 50px;
+    font-weight: 60px;
+    text-align: center;
+}
+p{
+    margin: 0;
+    padding-left:15% ;
+    padding-right: 12%;
+    font-size: medium;
+    color: white;
+    font-family: sans-serif;
+
+    text-align-last:justify;
+    letter-spacing: .05rem;
+
+}
+p2{
+    margin: 0;
+    padding-left:15% ;
+    padding-right: 12%;
+    font-size: medium;
+    color: white;
+    font-family: sans-serif;
+
+    text-align:justify;
+    letter-spacing: .05rem;
+
+}
+
